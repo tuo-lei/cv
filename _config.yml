@@ -1,6 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 title: Tuo Lei's Resume
 description: Welcome to the digital resume of Tuo Lei, a Bay Area-based Software Engineer. Skilled in creating efficient software solutions. Open to new opportunities. Please email for hiring inquiries.
 G-MG0PFG30RR
