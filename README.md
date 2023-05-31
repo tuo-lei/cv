@@ -42,7 +42,7 @@ _Software engineer based in San Francisco Bay Area US_ <br>
 ## Education
 
 **M.S. Software Engineering** <br>
-[San Jose State University](https://www.sjsu.edu/) - San Jose CA, USA _(Jan 2013 - Dec 2014)_ <br>
+[San Jose State University](https://www.sjsu.edu/) - San Jose CA, USA _(Jan 2014 - Dec 2015)_ <br>
 
 **B.A Digital Media** <br>
 [Communication University of China](https://en.cuc.edu.cn/) - Beijing, China _(2005 - 2009)_
