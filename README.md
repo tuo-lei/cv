@@ -2,7 +2,7 @@
 
 _Software engineer based in San Francisco Bay Area US_ <br>
 
-[(510)579-6938](tel:5105796938) / [leituo56@gmail.com](mailto:leituo56@gmail.com) / [in/leituo](https://www.linkedin.com/in/leituo) / [tuo-lei.github.io/cv/](https://github.com/tuo-lei/)
+[(510)579-6938](tel:5105796938) / [leituo56@gmail.com](mailto:leituo56@gmail.com) / [in/leituo](https://www.linkedin.com/in/leituo) / [tuo-lei.com](https://tuo-lei.com/)
 
 ## Professional Experience
 
