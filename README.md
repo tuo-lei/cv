@@ -6,8 +6,13 @@ _Software engineer based in San Francisco Bay Area US_ <br>
 
 ## Professional Experience
 
-**Software Engineer** @ [Meta](https://meta.com/) _(Feb 2016 - Present)_ <br>
-  - **Ads Serving Infra**: Current team. I helped realize multiple ranking/product initiatives in the existing serving infra, e.g. short-form video / real-time signal, with extreme constraints on latency. I act as POC in serving infra partnering with multiple ranking/product/ads teams to support their team's effort into serving infra.
+**Principal Software Engineer** @ [Roblox](https://roblox.com/) _(Nov 2023 - Present)_ <br>
+  - Building AI agent platform that empowers both engineering and people, places & systems teams to automate complex workflows.
+  - Leading the internal tool systems within the company.
+<br><br>
+
+**Software Engineer** @ [Meta](https://meta.com/) _(Feb 2016 - 2023)_ <br>
+  - **Ads Serving Infra**: I helped realize multiple ranking/product initiatives in the existing serving infra, e.g. short-form video / real-time signal, with extreme constraints on latency. Acted as POC in serving infra partnering with multiple ranking/product/ads teams to support their team's effort into serving infra.
 
   - **Integrity Actions Platform**
 
